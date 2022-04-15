@@ -26,3 +26,38 @@ A love for the Linux environment, at home within a network, and an idealized vie
 
 ![Dino](https://raw.githubusercontent.com/krishnaone/krishnaone/master/dino.gif)
     
+### Technologies Used 👨‍💻
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40" title="MATLAB" />
+
+
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>    
+
+
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" title="Flask"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" title="MySQL"/>  
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" title="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40" title="GCloud"/>
+
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" title="Heroku"/>
+  <img src="https://img.icons8.com/ios/452/selenium-test-automation.png" alt="selenium" width="40" height="40" title="Selenium" />
+ 
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
+  <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="heroku" width="40" height="40" title="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" title="Javascript" />
+
+  
+</p>
+
+---
+    
