@@ -1,7 +1,7 @@
 <p align="center">
   
   
-# Hello there! 👋🏻 I am Vaibhav Krishna! <img src="https://i.imgur.com/veZrcC7.gif" alt="Infinity" width="50" />
+# Hello there! 👋🏻 I am Vaibhav Krishna! <img src="https://i.imgur.com/veZrcC7.gif" alt="Infinity" width="100" />
 
   <samp>
     <br>
