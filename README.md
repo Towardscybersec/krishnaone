@@ -5,7 +5,7 @@
 
   <samp>
     <br>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="950" height="300" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="700" height="300" />
  
  <br>
  <br>
