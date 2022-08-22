@@ -5,7 +5,10 @@
 
   <samp>
     <br>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" height="300" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1020" height="300" />
+ 
+ <br>
+ <br>
 I am Vaibhav Krishna 🙋, Extremely self-motivated technology polymath. 
 
 My goals are to become an IT guru of many facets and to support networks and projects of any size or demand. With an enthusiastic desire to learn and experience new challenges, I take every new situation as a challenge of my knowledge and face problems with confidence and tenacity.
